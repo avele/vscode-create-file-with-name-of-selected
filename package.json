@@ -3,6 +3,7 @@
   "displayName": "New file with name of selected",
   "description": "",
   "version": "0.0.1",
+  "publisher": "Avele",
   "engines": {
     "vscode": "^1.55.0"
   },

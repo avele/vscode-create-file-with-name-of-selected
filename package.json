@@ -2,6 +2,9 @@
   "name": "new-file-with-name-of-selected",
   "displayName": "New file with name of selected",
   "description": "",
+  "repository": {
+    "url": "https://github.com/avele/vscode-create-file-with-name-of-selected"
+  },
   "version": "0.0.1",
   "publisher": "Avele",
   "engines": {
